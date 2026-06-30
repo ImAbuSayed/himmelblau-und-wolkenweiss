@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Himmelblau und Wolkenweiß](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
+| **Get License** | [Secure Licensing Rights for Himmelblau und Wolkenweiß](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e407a0c36a4f7d67ab5650835e5a3de93319541d7ee491b0af90f39da46e367` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
