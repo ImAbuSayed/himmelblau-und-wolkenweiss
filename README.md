@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Himmelblau und Wolkenweiß](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
+| **Get License** | [License this song: Himmelblau und Wolkenweiß](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/himmelblau-und-wolkenweiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir fliegen durch die Nacht, alles Himmelblau und Wolkenweiß
+> Dein Blick in meinem Spiegel macht mich ohne Worte heiß
+> Die City ist am Schlafen, doch wir beide drehen auf
+> Baby, steig zu mir ein, wir nehmen diese Nacht in Kauf
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
